@@ -1,0 +1,5 @@
+Greeting.create!(message: 'Hello Rails Backend!')
+Greeting.create!(message: 'Good morning!')
+Greeting.create!(message: 'Good day!')
+Greeting.create!(message: 'Happy Coding!')
+Greeting.create!(message: "What's up?")
